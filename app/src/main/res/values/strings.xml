@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="business_name">BEST BUSINESS Ltd.</string>
+    <string name="company_logo">content_description</string>
+    <string name="business_description"><![CDATA[Parley’s PPM Plumbing, Heating & Air Conditioning opened its doors to Draper, UT and the rest of Utah County nearly 40 years ago, beginning a tradition of unparalleled customer service and quality HVAC repairs and installation. We’re dedicated to your happiness. That means we arrive on time and investigate your system before diving blindly into the situation. We get it right the first time. Regardless of the size of the job or its complexity, your satisfaction is most important to us. And as a thoroughly family-owned company, you can trust us to give your family the same attention we give to ours. If your air conditioner, heater, water heater, or water softener isn’t working correctly, give us a call immediately. We’ll schedule an appointment.]]></string>
+    <string name="address_first_line">590 Madison Ave,</string>
+    <string name="address_second_line">New York, NY 10022</string>
+    <string name="telephone">+1 800-426-0616</string>
+    <string name="email">business@business.com</string>
+    <string name="website">www.business.com</string>
+    <string name="working_hours">Monday to Friday from 8H-18H</string>
+</resources>
